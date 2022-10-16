@@ -9,22 +9,22 @@
   
 
 ## Controls🎮 
-- 0: depth buffer mode \
-- 1: wireframe mode\
-- 2: solid mode\
-- 3: first person mode\
-- 4: third person mode\
-- 5: rooted camera mode\ 
-- a: Rolls airplane body / Rotate around forward (cw)\
-- d: Rolls airplane body / Rotate around forward (ccw)\
-- q: Yaws airplane body / Rotate around up (ccw)\
-- e: Yaws airplane body / Rotate around up (cw)\
-- w: Pitches airplane body / Rotate around right (cw)\
-- s: Pitches airplane body / Rotate around right (ccw)\
-- space: Move airplane body forward\
-- z: Decrease camera distance\
-- x: Increase camera distance\
-- h: Decrease camera height\
+- 0: depth buffer mode
+- 1: wireframe mode
+- 2: solid mode
+- 3: first person mode
+- 4: third person mode
+- 5: rooted camera mode 
+- a: Rolls airplane body / Rotate around forward
+- d: Rolls airplane body / Rotate around forward
+- q: Yaws airplane body / Rotate around up
+- e: Yaws airplane body / Rotate around up
+- w: Pitches airplane body / Rotate around right
+- s: Pitches airplane body / Rotate around right
+- space: Move airplane body forward
+- z: Decrease camera distance
+- x: Increase camera distance
+- h: Decrease camera height
 - y: Increase camera height
 
 ## Features 📋
