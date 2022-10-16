@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Engine\Math\Matrix4.cpp" />
+    <ClCompile Include="Engine\Math\Point4.cpp" />
+    <ClCompile Include="Engine\Math\Vector4.cpp" />
+    <ClCompile Include="Engine\System\Main.cpp" />
+    <ClCompile Include="Engine\Graphics\FrameBuffer.cpp" />
+    <ClCompile Include="Engine\Graphics\Rasterizer\DrawTriangle.cpp" />
+    <ClCompile Include="Engine\IO\Parser.cpp" />
+    <ClCompile Include="Source\Scene.cpp" />
+    <ClCompile Include="Engine\Types\GameObject.h" />
+    <ClCompile Include="Engine\Types\Box.h" />
+    <ClCompile Include="Engine\Types\Box.cpp" />
+    <ClCompile Include="Engine\Types\Camera.cpp" />
+    <ClCompile Include="Engine\System\GFXSystem.cpp" />
+    <ClCompile Include="Source\Shaders\CpyFB.cpp" />
+    <ClCompile Include="Source\Shaders\DepthView.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\Math\Matrix4.h" />
+    <ClInclude Include="Engine\Math\Point4.h" />
+    <ClInclude Include="Engine\Math\Vector4.h" />
+    <ClInclude Include="Engine\Math\MathUtilities.h" />
+    <ClInclude Include="Engine\Graphics\FrameBuffer.h" />
+    <ClInclude Include="Engine\Graphics\Rasterizer\DrawTriangle.h" />
+    <ClInclude Include="Engine\Math\Vertex.h" />
+    <ClInclude Include="Engine\Graphics\Color.h" />
+    <ClInclude Include="Engine\IO\Parser.h" />
+    <ClInclude Include="Source\Scene.h" />
+    <ClInclude Include="Engine\Types\Camera.h" />
+    <ClInclude Include="Engine\System\GFXSystem.h" />
+    <ClInclude Include="Engine\Graphics\Types\PostProcess.h" />
+    <ClInclude Include="Source\Shaders\CpyFB.h" />
+    <ClInclude Include="Source\Shaders\DepthView.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+  </ItemGroup>
+</Project>
